@@ -6,3 +6,6 @@ joshua
 pelumi
 precious
 daniel
+john
+samuel
+joseph
